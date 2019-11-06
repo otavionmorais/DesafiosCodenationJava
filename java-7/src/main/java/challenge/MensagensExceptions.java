@@ -13,7 +13,7 @@ public final class MensagensExceptions {
             MOTORISTA_SEM_PONTOS="Motorista sem pontos",
             CARRO_SEM_PLACA="Carro sem placa",
             CARRO_SEM_COR="Carro sem cor",
-            CARRO_AUTONOMO="Motorista autônomo",
+            CARRO_AUTONOMO="Carro autônomo",
             NAO_HA_VAGA="Não há vaga";
 
 }

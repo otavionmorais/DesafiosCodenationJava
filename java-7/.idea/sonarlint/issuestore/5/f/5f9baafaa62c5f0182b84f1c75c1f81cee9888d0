@@ -1,0 +1,44 @@
+
+Qsquid:S1444"5Make this "public static SEM_HABILITACAO" field final(ÓäÔÿùÿÿÿÿ
+Esquid:S1444	".Make this "public static SEM_NOME" field final(ØıÓ
+Psquid:S1444
+"4Make this "public static IDADE_NEGATIVA" field final(˜²úêüÿÿÿÿ
+Rsquid:S1444"6Make this "public static PONTOS_NEGATIVOS" field final(›çéñüÿÿÿÿ
+Qsquid:S1444"5Make this "public static MOTORISTA_MENOR" field final(Æş¡Áøÿÿÿÿ
+Qsquid:S1444":Make this "public static MOTORISTA_SEM_PONTOS" field final( ÂÙ¤
+Qsquid:S1444"5Make this "public static CARRO_SEM_PLACA" field final(¶ößÜÿÿÿÿÿ
+Osquid:S1444"3Make this "public static CARRO_SEM_COR" field final(Ñ‡±Åıÿÿÿÿ
+Psquid:S1444"4Make this "public static CARRO_AUTONOMO" field final(ì¢‡¿úÿÿÿÿ
+Msquid:S1444"1Make this "public static NAO_HA_VAGA" field final(óî—øÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make SEM_HABILITACAO a static final constant or non-public and provide accessors if needed.(ÓäÔÿùÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck	"TMake SEM_NOME a static final constant or non-public and provide accessors if needed.(ØıÓ
+"squid:ClassVariableVisibilityCheck
+"ZMake IDADE_NEGATIVA a static final constant or non-public and provide accessors if needed.(˜²úêüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"\Make PONTOS_NEGATIVOS a static final constant or non-public and provide accessors if needed.(›çéñüÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"[Make MOTORISTA_MENOR a static final constant or non-public and provide accessors if needed.(Æş¡Áøÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"`Make MOTORISTA_SEM_PONTOS a static final constant or non-public and provide accessors if needed.( ÂÙ¤
+"squid:ClassVariableVisibilityCheck"[Make CARRO_SEM_PLACA a static final constant or non-public and provide accessors if needed.(¶ößÜÿÿÿÿÿ
+Œ"squid:ClassVariableVisibilityCheck"YMake CARRO_SEM_COR a static final constant or non-public and provide accessors if needed.(Ñ‡±Åıÿÿÿÿ
+"squid:ClassVariableVisibilityCheck"ZMake CARRO_AUTONOMO a static final constant or non-public and provide accessors if needed.(ì¢‡¿úÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake NAO_HA_VAGA a static final constant or non-public and provide accessors if needed.(óî—øÿÿÿÿ
+=squid:S1659	"&Declare "SEM_NOME" on a separate line.(ØıÓ
+Hsquid:S1659
+",Declare "IDADE_NEGATIVA" on a separate line.(˜²úêüÿÿÿÿ
+Jsquid:S1659".Declare "PONTOS_NEGATIVOS" on a separate line.(›çéñüÿÿÿÿ
+Isquid:S1659"-Declare "MOTORISTA_MENOR" on a separate line.(Æş¡Áøÿÿÿÿ
+Isquid:S1659"2Declare "MOTORISTA_SEM_PONTOS" on a separate line.( ÂÙ¤
+Isquid:S1659"-Declare "CARRO_SEM_PLACA" on a separate line.(¶ößÜÿÿÿÿÿ
+Gsquid:S1659"+Declare "CARRO_SEM_COR" on a separate line.(Ñ‡±Åıÿÿÿÿ
+Hsquid:S1659",Declare "CARRO_AUTONOMO" on a separate line.(ì¢‡¿úÿÿÿÿ
+Esquid:S1659")Declare "NAO_HA_VAGA" on a separate line.(óî—øÿÿÿÿ
+vsquid:S3008"ZRename this field "SEM_HABILITACAO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÓäÔÿùÿÿÿÿ
+jsquid:S3008	"SRename this field "SEM_NOME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØıÓ
+usquid:S3008
+"YRename this field "IDADE_NEGATIVA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜²úêüÿÿÿÿ
+wsquid:S3008"[Rename this field "PONTOS_NEGATIVOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›çéñüÿÿÿÿ
+vsquid:S3008"ZRename this field "MOTORISTA_MENOR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æş¡Áøÿÿÿÿ
+vsquid:S3008"_Rename this field "MOTORISTA_SEM_PONTOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ÂÙ¤
+vsquid:S3008"ZRename this field "CARRO_SEM_PLACA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ößÜÿÿÿÿÿ
+tsquid:S3008"XRename this field "CARRO_SEM_COR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ‡±Åıÿÿÿÿ
+usquid:S3008"YRename this field "CARRO_AUTONOMO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¢‡¿úÿÿÿÿ
+rsquid:S3008"VRename this field "NAO_HA_VAGA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óî—øÿÿÿÿ

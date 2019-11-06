@@ -28,6 +28,7 @@ public class Estacionamento {
                     if(motoristaSelecionado.getIdade()<=55) {
                         havaga=true;
                         estacionados.set(i, carro);
+                        break;
                     }
                 }
 

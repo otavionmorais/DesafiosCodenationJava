@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90908e52-b7cb-4c88-9aea-bc9dbaa7e33d" name="Default Changelist" comment="" />
+    <list default="true" id="90908e52-b7cb-4c88-9aea-bc9dbaa7e33d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/challenge/CriptografiaCesariana.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/challenge/CriptografiaCesariana.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/challenge.CriptografiaCesarianaSubmissionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/challenge.CriptografiaCesarianaSubmissionTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-challenge.CriptografiaCesarianaSubmissionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-challenge.CriptografiaCesarianaSubmissionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stdout.txt" beforeDir="false" afterPath="$PROJECT_DIR$/stdout.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/4.9/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Estacionamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/Estacionamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/MensagensExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/classes/java/main/challenge/MensagensExceptions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/classes/challenge.EstacionamentoSubmissionTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/reports/tests/test/classes/challenge.EstacionamentoSubmissionTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/reports/tests/test/packages/challenge.html" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/reports/tests/test/packages/challenge.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/test-results/test/TEST-challenge.EstacionamentoSubmissionTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/test-results/test/TEST-challenge.EstacionamentoSubmissionTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Estacionamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/src/main/java/challenge/Estacionamento.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-7/src/main/java/challenge/MensagensExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-7/src/main/java/challenge/MensagensExceptions.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +43,11 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1S9gOzYFeQn794CtTNK2Sy9g2eV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -61,5 +95,16 @@
       <updated>1570981197722</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
