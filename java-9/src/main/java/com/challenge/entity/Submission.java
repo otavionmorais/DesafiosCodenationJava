@@ -8,6 +8,7 @@ import javax.validation.constraints.NotNull;
 import java.util.Date;
 import java.util.Objects;
 
+
 @Entity(name = "submission")
 @EntityListeners({})
 @Table(name = Submission.TABLE_NAME)
