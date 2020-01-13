@@ -3,9 +3,7 @@ package com.challenge.endpoints;
 import com.challenge.dto.CandidateDTO;
 import com.challenge.entity.Candidate;
 import com.challenge.mappers.CandidateMapper;
-import com.challenge.mappers.CandidateMapperImpl;
 import com.challenge.service.impl.CandidateService;
-import org.mapstruct.factory.Mappers;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -17,12 +15,12 @@ import java.util.Optional;
 public class CandidateController {
 
     private final CandidateService candidateService;
-    private final CandidateMapperImpl candidateMapper = new CandidateMapperImpl();
+    private final CandidateMapper candidateMapper;
 
     @Autowired
-    public CandidateController(CandidateService candidateService) {
+    public CandidateController(CandidateService candidateService, CandidateMapper candidateMapper) {
         this.candidateService = candidateService;
-
+        this.candidateMapper = candidateMapper;
     }
 
     @GetMapping("/{userId}/{accelerationId}/{companyId}")

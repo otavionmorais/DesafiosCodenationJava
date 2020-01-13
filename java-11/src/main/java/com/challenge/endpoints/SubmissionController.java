@@ -2,7 +2,7 @@ package com.challenge.endpoints;
 
 import com.challenge.dto.SubmissionDTO;
 import com.challenge.entity.Submission;
-import com.challenge.mappers.SubmissionMapperImpl;
+import com.challenge.mappers.SubmissionMapper;
 import com.challenge.service.impl.SubmissionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -14,11 +14,12 @@ import java.util.List;
 public class SubmissionController {
 
     private final SubmissionService submissionService;
-    private final SubmissionMapperImpl submissionMapper = new SubmissionMapperImpl();
+    private final SubmissionMapper submissionMapper;
 
     @Autowired
-    public SubmissionController(SubmissionService submissionService) {
+    public SubmissionController(SubmissionService submissionService, SubmissionMapper submissionMapper) {
         this.submissionService = submissionService;
+        this.submissionMapper = submissionMapper;
     }
 
     @GetMapping(params = {"challengeId", "accelerationId"})
